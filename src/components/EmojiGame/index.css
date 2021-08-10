@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+}
+.app-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  min-height: 100vh;
+  background-size: cover;
+}
+.emojis-game-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+  margin-top: 40px;
+}
+.emoji-list-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-type: none;
+  width: 60%;
+  flex-wrap: wrap;
+}

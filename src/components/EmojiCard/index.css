@@ -1,0 +1,21 @@
+.list-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  width: 150px;
+  background-color: #ffffff30;
+  border: 1px solid #ffffff30;
+  border-radius: 15px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.list-item-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.list-emoji {
+  width: 75%;
+}

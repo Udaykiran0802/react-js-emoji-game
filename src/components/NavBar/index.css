@@ -1,0 +1,44 @@
+.nav-bar-container {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff33;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Roboto';
+}
+.logo-score-container {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+.logo-heading-container {
+  display: flex;
+  align-items: center;
+}
+.logo-img {
+  height: 40px;
+  margin-right: 5px;
+}
+.logo-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.score-Container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+}
+.score {
+  color: #ffffff;
+  font-size: 26px;
+  margin-left: 30px;
+  font-weight: 500;
+}
+.top-score {
+  color: #ffffff;
+  font-size: 26px;
+  margin-left: 30px;
+  font-weight: 500;
+}
